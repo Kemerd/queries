@@ -1,6 +1,6 @@
 # queries
 
-Friend sent me this from one of his Java certification courses. Thought it was interesting, decided to code it up in C++. Experiment with STD.
+Friend sent me this from one of his HackerRank tests. Thought it was interesting, decided to code it up in C++. Experiment with STD.
 
 ;;
 
